@@ -1,0 +1,15 @@
+C:\Users\Nick\Desktop\User Files\PA's\mis-221-pa-5-njwilke\bin\Debug\net6.0\mis-221-pa-5-njwilke.exe
+C:\Users\Nick\Desktop\User Files\PA's\mis-221-pa-5-njwilke\bin\Debug\net6.0\mis-221-pa-5-njwilke.deps.json
+C:\Users\Nick\Desktop\User Files\PA's\mis-221-pa-5-njwilke\bin\Debug\net6.0\mis-221-pa-5-njwilke.runtimeconfig.json
+C:\Users\Nick\Desktop\User Files\PA's\mis-221-pa-5-njwilke\bin\Debug\net6.0\mis-221-pa-5-njwilke.dll
+C:\Users\Nick\Desktop\User Files\PA's\mis-221-pa-5-njwilke\bin\Debug\net6.0\mis-221-pa-5-njwilke.pdb
+C:\Users\Nick\Desktop\User Files\PA's\mis-221-pa-5-njwilke\obj\Debug\net6.0\mis-221-pa-5-njwilke.csproj.AssemblyReference.cache
+C:\Users\Nick\Desktop\User Files\PA's\mis-221-pa-5-njwilke\obj\Debug\net6.0\mis-221-pa-5-njwilke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Desktop\User Files\PA's\mis-221-pa-5-njwilke\obj\Debug\net6.0\mis-221-pa-5-njwilke.AssemblyInfoInputs.cache
+C:\Users\Nick\Desktop\User Files\PA's\mis-221-pa-5-njwilke\obj\Debug\net6.0\mis-221-pa-5-njwilke.AssemblyInfo.cs
+C:\Users\Nick\Desktop\User Files\PA's\mis-221-pa-5-njwilke\obj\Debug\net6.0\mis-221-pa-5-njwilke.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\User Files\PA's\mis-221-pa-5-njwilke\obj\Debug\net6.0\mis-221-pa-5-njwilke.dll
+C:\Users\Nick\Desktop\User Files\PA's\mis-221-pa-5-njwilke\obj\Debug\net6.0\refint\mis-221-pa-5-njwilke.dll
+C:\Users\Nick\Desktop\User Files\PA's\mis-221-pa-5-njwilke\obj\Debug\net6.0\mis-221-pa-5-njwilke.pdb
+C:\Users\Nick\Desktop\User Files\PA's\mis-221-pa-5-njwilke\obj\Debug\net6.0\mis-221-pa-5-njwilke.genruntimeconfig.cache
+C:\Users\Nick\Desktop\User Files\PA's\mis-221-pa-5-njwilke\obj\Debug\net6.0\ref\mis-221-pa-5-njwilke.dll

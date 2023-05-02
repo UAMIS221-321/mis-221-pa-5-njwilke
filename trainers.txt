@@ -1,0 +1,5 @@
+1#Nicholas Wilke#300 Dirt Road#njwilke@crimson.ua.edu
+2#William McIntyre#18 Lawnstripe Circle#wjmcintyre@crimson.ua.edu
+3#Max Olejniczak#42 Wallaby Way#mtolejniczak@crimson.ua.edu
+4#Liberty Mugerauer#3825 Fairytale Court#lpmugerauer@crimson.ua.edu
+5#Tatyana Pingston#1015 Carmichael Way#tgpingston@crimson.ua.edu

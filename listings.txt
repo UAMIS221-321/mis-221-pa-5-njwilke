@@ -1,0 +1,13 @@
+1#Max Olejniczak#04/28/23#10:45 AM#50#12
+2#Will McIntyre#04/30/23#11:00 AM#50#20
+3#Liberty Mugerauer#05/01/23#2:00 PM#40#11
+4#Liberty Mugerauer#05/03/23#3:00 P.M.#50#20
+5#Liberty Mugerauer#05/03/23#6:00 P.M.#50#20
+6#Nicholas Wilke#05/05/23#2:30 PM#35#17
+7#Nicholas Wilke#05/10/23#7:45 AM#45#22
+8#Nicholas Wilke#05/22/23#10:30 AM#30#16
+9#Tatyana Pingston#06/17/23#11:05 AM#50#12
+10#Max Olejniczal#06/20/23#12:30 PM#50#14
+11#Will McIntyre#08/03/23#11:00 AM#50#15
+12#Max Olejniczak#08/12/23#1:10 PM#50#12
+13#Tatyana Pingston#04/01/24#2:30 PM#40#15
